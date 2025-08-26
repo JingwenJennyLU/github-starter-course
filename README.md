@@ -1,4 +1,4 @@
-# The Basics of GitHub (is not easy)
+# The Basics of GitHub (is not easy!!!)
 
 ## Course overview and learning outcomes
 
